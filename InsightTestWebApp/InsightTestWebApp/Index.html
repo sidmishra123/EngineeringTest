@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <style>
+        table, th, td {
+            border: 1px solid grey;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+
+            table tr:nth-child(odd) {
+                background-color: #FCF6CF;
+            }
+
+            table tr:nth-child(even) {
+                background-color: #ffffff;
+            }
+
+        p.groove {
+            border-style: groove;
+            background-color: aliceblue;
+            padding-left: 350px;
+        }
+
+        #settings {
+            padding-top: 50px;
+        }
+
+        #options {
+            padding-top: 5px;
+        }
+
+        #datagrid {
+            padding-top: 10px;
+            border-style: groove;
+            background-color: aliceblue;
+            height: 380px;
+        }
+
+        #dataheader {
+            height: 40px;
+            background-color: #848484;
+            width: 100%;
+            padding-right: 5px;
+            margin: 5px;
+        }
+    </style>
+
+    <title></title>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/ngStorage.min.js"></script>
+
+    <script src="Scripts/angular-route.js"></script>
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <script src="app.js"></script>
+    <script src="About.js"></script>
+    <script src="route.js"></script>
+    <script src="EditPart.js"></script>
+</head>
+<body>
+    <div ng-app="engineeringApp">
+        <div ng-view></div>
+    </div>
+</body>
+</html>

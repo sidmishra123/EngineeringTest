@@ -1,0 +1,8 @@
+﻿[
+    
+    { "partnumber": "1", "description": "Used in wheel creation", "unitofmeasure": "metric", "primaryacquisition": "On-hold", "Active": "Yes" },
+    { "partnumber": "2", "description": "Used in wiring", "unitofmeasure": "kg", "primaryacquisition": "Done", "Active": "No" },
+    { "partnumber": "3", "description": "Used in doors", "unitofmeasure": "metric", "primaryacquisition": "In-Progress", "Active": "Yes" },
+    { "partnumber": "4", "description": "Used in motor", "unitofmeasure": "metric", "primaryacquisition": "On-hold", "Active": "No" },
+    { "partnumber": "5", "description": "Used in outer body", "unitofmeasure": "metric", "primaryacquisition": "Done", "Active": "Yes" }
+]

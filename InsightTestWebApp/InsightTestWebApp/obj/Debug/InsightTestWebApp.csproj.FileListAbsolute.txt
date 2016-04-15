@@ -1,0 +1,6 @@
+c:\users\siddharatham\documents\visual studio 2013\Projects\InsightTestWebApp\InsightTestWebApp\bin\InsightTestWebApp.dll.config
+c:\users\siddharatham\documents\visual studio 2013\Projects\InsightTestWebApp\InsightTestWebApp\bin\InsightTestWebApp.dll
+c:\users\siddharatham\documents\visual studio 2013\Projects\InsightTestWebApp\InsightTestWebApp\bin\InsightTestWebApp.pdb
+c:\users\siddharatham\documents\visual studio 2013\Projects\InsightTestWebApp\InsightTestWebApp\obj\Debug\InsightTestWebApp.dll
+c:\users\siddharatham\documents\visual studio 2013\Projects\InsightTestWebApp\InsightTestWebApp\obj\Debug\InsightTestWebApp.pdb
+c:\users\siddharatham\documents\visual studio 2013\Projects\InsightTestWebApp\InsightTestWebApp\obj\Debug\InsightTestWebApp.csprojResolveAssemblyReference.cache
